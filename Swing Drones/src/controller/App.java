@@ -13,7 +13,7 @@ public class App {
 
 		Frame frame = new Frame();
 		
-		MainController controller = new MainController(frame);
+		new MainController(frame);
 
 	}
 

@@ -23,9 +23,6 @@ public class DistanceController implements ActionListener {
 				.setText("Distancia recorrida: " + frame.getDronA().getDistance() + " px");
 		frame.getLblDistanceDronB()
 				.setText("Distancia recorrida: " + frame.getDronB().getDistance() + " px");
-		frame.getProgressBatteryDronA().setValue(frame.getDronA().getBattery());
-		frame.getProgressBatteryDronB().setValue(frame.getDronB().getBattery());
-
 	}
 
 }

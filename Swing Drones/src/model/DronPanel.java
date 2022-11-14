@@ -92,7 +92,6 @@ public class DronPanel extends JPanel implements ActionListener {
 	public void actionPerformed(ActionEvent e) {
 		if (this.battery <= 0) {
 			stopDron();
-			System.out.println(this.getName() + " ha recorrido " + this.getDistance() + " píxeles");
 		}
 		
 		if (x > PANEL_WIDTH - dronOn.getWidth(null) || x < 0) {

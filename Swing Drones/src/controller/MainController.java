@@ -9,13 +9,17 @@ public class MainController {
 	@SuppressWarnings("unused")
 	private DistanceController distanceController;
 	private SpeedController speedController;
+	@SuppressWarnings("unused")
+	private BatteryController batteryController;
 	private ReportController reportController;
 	
 	public MainController(Frame frame) {
 		this.frame = frame;
+		
 		dronController = new DronController(frame);
 		distanceController = new DistanceController(frame);
 		speedController = new SpeedController(frame);
+		batteryController = new BatteryController(frame);
 		reportController = new ReportController(frame);
 		
 		initView();
