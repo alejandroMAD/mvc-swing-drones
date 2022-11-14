@@ -5,6 +5,7 @@ MVC-Swing-Drones
 Screenshot
 ----------
 ![Screenshot](/screenshot.png)
+![Demo animation](/demo.gif)
 
 A simple Java Swing application demonstrating the use of timers and event handlers in MVC architectural pattern.
 
