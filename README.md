@@ -23,9 +23,8 @@ Features
 Credits
 -------------------
 
-
-* https://www.flaticon.com/
-* https://www.unsplash.com/
+* Icons: [Flaticon](https://www.flaticon.com/)
+* Background: [Unsplash](https://www.unsplash.com/)
 
 
 License
@@ -50,4 +49,4 @@ License
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
     
-    MIT: http://opensource.org/licenses/MIT
+    MIT License: http://opensource.org/licenses/MIT
