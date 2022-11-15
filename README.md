@@ -10,14 +10,14 @@ A simple Java Swing application demonstrating the use of timers and event handle
 
 Features
 -------------------
-* Drones move on the x axis according to the specified pixel velocity and timer delay.
+* Drones move on the x axis according to the specified pixel velocity and a timer delay.
 * Drones operation can be paused, resumed and stopped by action buttons.
-* Drones travelled distance is shown and updated on the UI.
-* Drones velocity can be changed by slider controls.
+* Drones travel distance is shown and updated on the UI.
+* Drones speed can be adjusted by slider controls.
 * Drones operation stop automatically when the battery value drops to zero.
-* A dron current velocity has an impact on its battery consumption.
-* An efficiency ratio enum type define each drone's battery consumption rate.
-* A console log prints objects state at any given time.
+* A dron's current velocity has an impact on its battery consumption.
+* An efficiency ratio enum type affects drone's battery consumption rate.
+* A console log prints the object's state at any given time.
 
 
 Credits
