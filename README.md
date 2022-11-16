@@ -6,7 +6,7 @@ Demo
 ----------
 ![Demo animation](/demo.gif)
 
-A simple Java Swing application demonstrating the use of timers and event handlers in a MVC architectural pattern.
+A simple Java Swing application to operate and monitor two drones flight, demonstrating the use of timers and event handlers in a MVC architectural pattern.
 
 Features
 -------------------
@@ -14,10 +14,10 @@ Features
 * Drones operation can be paused, resumed and stopped by action buttons.
 * Drones travel distance is shown and updated on the UI.
 * Drones speed can be adjusted by slider controls.
-* Drones operation stop automatically when the battery value drops to zero.
+* Drones operation stop automatically when their battery value drops to zero.
 * A dron's current velocity has an impact on its battery consumption.
 * An efficiency ratio enum type affects drone's battery consumption rate.
-* A console log prints the object's state at any given time.
+* A console log allows for printing the object's state at any given time.
 
 
 Credits
