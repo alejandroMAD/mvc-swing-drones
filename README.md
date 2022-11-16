@@ -1,6 +1,8 @@
 MVC-Swing-Drones
 ===============
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/alejandroMAD/mvc-swing-drones/blob/master/README.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/alejandroMAD/mvc-swing-drones/blob/master/README.es.md)
 
 Demo
 ----------
